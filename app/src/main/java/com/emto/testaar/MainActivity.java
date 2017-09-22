@@ -2,6 +2,7 @@ package com.emto.testaar;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 import com.aigestudio.wheelpicker.widgets.WheelDateTimePicker;
 import com.aigestudio.wheelpicker.widgets.WheelDayPicker;
@@ -17,5 +18,18 @@ public class MainActivity extends AppCompatActivity {
 
 
         setContentView(picker);
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
+        Log.e("ssssss", "ssssssssssssss");
     }
 }
