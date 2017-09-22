@@ -21,15 +21,5 @@ public class MainActivity extends AppCompatActivity {
         Log.e("ssssss", "ssssssssssssss");
         Log.e("ssssss", "ssssssssssssss");
         Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
-        Log.e("ssssss", "ssssssssssssss");
     }
 }
